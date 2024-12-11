@@ -3,6 +3,9 @@
   <img src="SpeechEase Logo.PNG" width="240" height="240" alt="SpeechEase" />
 </div>
 
+## Bangkit 2024 Product Based Capstone Project
+### Created by: C242-PS021 
+
 ## Member
 
 |ID|Name|Universitas|Linkedin|
