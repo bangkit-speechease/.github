@@ -1,8 +1,8 @@
 <div align="center">
   <h1>SpeechEase</h1>
   <img src="SpeechEase Logo.PNG" width="240" height="240" alt="SpeechEase" />
-  ## Bangkit 2024 Product Based Capstone Project
-  ### Created by: C242-PS021
+  <h2>Bangkit 2024 Product Based Capstone Project</h2>
+  <h3>Created by: C242-PS021</h3>
 </div>
 
  
