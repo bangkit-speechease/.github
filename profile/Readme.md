@@ -39,7 +39,7 @@
 
 ### 1. Clone this Project to your Computer
 ```bash
-git clone https://github.com/rafiechautie/Autism-detector-for-children.git
+git clone https://github.com/bangkit-speechease/mobile-developments.git
 ```
 
 or you can use Android Studio 
