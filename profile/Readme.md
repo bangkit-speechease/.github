@@ -73,7 +73,7 @@ File > New > Project from Version Control ...
 ### 2. Open the Project in your Android Studio
 Open Android Studio and select open an existing project.
 
-#### 3. Run Project in Android Studio
+### 3. Run Project in Android Studio
 Wait for Gradle Build to Finish and finally press the `Run > Run ‘app’`. Now the app has been installed in your phone / emulator. Make sure that you have configured your android device or emulator.
 
 ### 4. Or you can download file APK
