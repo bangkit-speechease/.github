@@ -33,10 +33,23 @@ SpeechEase is a mobile application designed to support children aged 5–10 with
 
 ## Screenshots
 <p align="center">
-  <img src="splashscreen.jpg" width="150">
-  <img src="welcome.jpg" width="150">
-  <img src="login.jpg" width="150">
-  <img src="signup.jpg" width="150">
+  <img src="Splashscreen.jpg" width="150">
+  <img src="Welcome.jpg" width="150">
+  <img src="Login.jpg" width="150">
+  <img src="Signup.jpg" width="150">
+</p>
+
+<p align="center">
+  <img src="Home.jpg" width="150">
+  <img src="Guide.jpg" width="150">
+  <img src="Profile.jpg" width="150">
+</p>
+
+<p align="center">
+  <img src="Practice.jpg" width="150">
+  <img src="Practicedetail.jpg" width="150">
+  <img src="Feedback.jpg" width="150">
+  <img src="Interactive.jpg" width="150">
 </p>
 
 
