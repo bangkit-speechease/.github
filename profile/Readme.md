@@ -5,7 +5,7 @@
   <h4>Created by: C242-PS021</h4>
 </div>
 
- 
+
 
 ## Member
 
@@ -18,3 +18,39 @@
 |C102B4KY4487|William Susilo|Institut Bisnis dan Informatika Kwik Kian Gie|[Linkedin](linkedin.com/in)|
 |A283B4KY1349|Fahreza Ananda Kusuma|Universitas Negeri Semarang|[Linkedin](linkedin.com/in/fahreza-ananda-kusuma/)|
 |A134B4KX3179|Nabila|Politeknik Negeri Sriwijaya|[Linkedin](linkedin.com/in/nabila-229121289/)|
+
+
+
+## Backgrounder
+
+
+
+## Screenshots
+
+
+
+## Requirement
+* Android Studio Koala
+* Android Device or Android Emulator
+
+
+
+## Instalation
+
+### 1. Clone this Project to your Computer
+```bash
+git clone https://github.com/rafiechautie/Autism-detector-for-children.git
+```
+
+or you can use Android Studio 
+
+File > New > Project from Version Control ...
+
+### 2. Open the Project in your Android Studio
+Open Android Studio and select open an existing project.
+
+#### 3. Run Project in Android Studio
+Wait for Gradle Build to Finish and finally press the `Run > Run ‘app’`. Now the app has been installed in your phone / emulator. Make sure that you have configured your android device or emulator.
+
+### 4. Or you can download file APK
+
