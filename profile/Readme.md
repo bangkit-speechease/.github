@@ -21,7 +21,13 @@
 
 
 
+## Theme
+Health Innovation: Empowering Vulnerable Communities for Health and Well-being
+
+
+
 ## Backgrounder
+SpeechEase is a mobile application designed to support children aged 5–10 with speech delays through an engaging and interactive therapeutic experience. Utilizing a voice recognition system, the app offers Direct Feedback and Assessment, enabling children to receive real-time evaluations of their speech progress. Coupled with Interactive Learning features such as pronunciation tasks and visual aids, SpeechEase creates a fun and supportive environment that encourages active participation and the Progress Tracking features for allows user to monitor improvements over time, ensuring a tailored and effective therapy journey. By integrating these essential features, SpeechEase aims to foster healthy speech development, improve communication skills, and enhance social and educational success.
 
 
 
