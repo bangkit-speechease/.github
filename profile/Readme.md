@@ -77,4 +77,6 @@ Open Android Studio and select open an existing project.
 Wait for Gradle Build to Finish and finally press the `Run > Run ‘app’`. Now the app has been installed in your phone / emulator. Make sure that you have configured your android device or emulator.
 
 ### 4. Or you can download file APK
+[Release](https://github.com/bangkit-speechease/mobile-developments/releases/tag/1.0)
+or
 [Download](https://drive.google.com/file/d/1IuCqwzzwdiOWEzYWZoVv1dHvIoSUDmxH/view?usp=sharing)
