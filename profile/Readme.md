@@ -1,6 +1,6 @@
 <div align="center">
   <h1>SpeechEase</h1>
-  <img src="SpeechEase Logo.PNG" width="720" height="720" alt="SpeechEase" />
+  <img src="SpeechEase Logo.PNG" width="360" height="360" alt="SpeechEase" />
 </div>
 
 ## Member
