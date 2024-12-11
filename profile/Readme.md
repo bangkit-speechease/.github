@@ -1,3 +1,8 @@
+# SpeechEase
+
+<img src=".github/profile/SpeechEase Logo.PNG" width="36" height="36" alt="SpeechEase" />
+
+
 ## Member
 
 |ID|Name|Universitas|Linkedin|
