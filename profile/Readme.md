@@ -26,7 +26,12 @@
 
 
 ## Screenshots
-
+<p align="center">
+  <img src="splashscree.jpg" width="200">
+  <img src="welcome.jpg" width="200">
+  <img src="login.jpg" width="200">
+  <img src="signup.jpg" width="200">
+</p>
 
 
 ## Requirement
