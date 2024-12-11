@@ -1,6 +1,6 @@
 # SpeechEase
 
-<img src="SpeechEase Logo.PNG" width="36" height="36" alt="SpeechEase" />
+<img src="SpeechEase Logo.PNG" width="144" height="144" alt="SpeechEase" />
 
 
 ## Member
