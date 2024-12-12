@@ -79,4 +79,4 @@ Wait for Gradle Build to Finish and finally press the `Run > Run ‘app’`. Now
 ### 4. Or you can download file APK
 [Release](https://github.com/bangkit-speechease/mobile-developments/releases/tag/1.0)
 or
-[Download](https://drive.google.com/file/d/1IuCqwzzwdiOWEzYWZoVv1dHvIoSUDmxH/view?usp=sharing)
+[Download](https://drive.google.com/file/d/1Te3oeOuVip3eDnM_TqdlVKd2WGPmSe5a/view?usp=sharing)
